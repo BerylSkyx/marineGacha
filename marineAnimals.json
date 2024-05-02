@@ -1,0 +1,126 @@
+[
+    {
+        "marineAnimals":
+        [
+            {
+                "id": 1,
+                "animal": "Sea Lion",
+                "depth": "200m",
+                "diet": "Fish and Squid",
+                "desc": "Sea Lions are distinguished from Seals by their longer snouts.",
+                "rarity": 1
+            },
+            {
+                "id": 2,
+                "animal": "Sea Lion",
+                "depth": "200m",
+                "diet": "Fish and Squid",
+                "desc": "Sea Lions are distinguished from Seals by their longer snouts.",
+                "rarity": 2
+            },
+            {
+                "id": 3,
+                "animal": "Sea Lion",
+                "depth": "200m",
+                "diet": "Fish and Squid",
+                "desc": "Sea Lions are distinguished from Seals by their longer snouts.",
+                "rarity": 3
+            },
+            {
+                "id": 4,
+                "animal": "Whale Shark",
+                "depth": "1800m",
+                "diet": "Plankton and Small Fish",
+                "desc": "Whale Sharks are currently the largest living fish species.",
+                "rarity": 1
+            },
+            {   "id": 5,
+                "animal": "Whale Shark",
+                "depth": "1800m",
+                "diet": "Plankton and Small Fish",
+                "desc": "Whale Sharks are currently the largest living fish species.",
+                "rarity": 2
+            },
+            {
+                "id": 6,
+                "animal": "Whale Shark",
+                "depth": "1800m",
+                "diet": "Plankton and Small Fish",
+                "desc": "Whale Sharks are currently the largest living fish species.",
+                "rarity": 3
+            },
+            {
+                "id": 7,
+                "animal": "Vampire",
+                "depth": "900m",
+                "diet": "Dead Animals",
+                "desc": "Recognized by their Dracula-esq cloak and their funny little ears.",
+                "rarity": 1
+            },
+            {
+                "id": 8,
+                "animal": "Vampire",
+                "depth": "900m",
+                "diet": "Dead Animals",
+                "desc": "Recognized by their Dracula-esq cloak and their funny little ears.",
+                "rarity": 2
+            },
+            {
+                "id": 9,
+                "animal": "Vampire",
+                "depth": "900m",
+                "diet": "Dead Animals",
+                "desc": "Recognized by their Dracula-esq cloak and their funny little ears.",
+                "rarity": 3
+            },
+            {
+                "id": 10,
+                "animal": "Blue Whale",
+                "depth": "500m",
+                "diet": "Krill",
+                "desc": "Blue Whales are the largest animal known to ever exist.",
+                "rarity": 1
+            },
+            {
+                "id": 11,
+                "animal": "Blue Whale",
+                "depth": "500m",
+                "diet": "Krill",
+                "desc": "Blue Whales are the largest animal known to ever exist.",
+                "rarity": 2
+            },
+            {
+                "id": 12,
+                "animal": "Blue Whale",
+                "depth": "500m",
+                "diet": "Krill",
+                "desc": "Blue Whales are the largest animal known to ever exist.",
+                "rarity": 3
+            },
+            {
+                "id": 13,
+                "animal": "Guineafowl Puffer",
+                "depth": "20m",
+                "diet": "Coral and Sea Sponges",
+                "desc": "A fish that dwells in coral reefs and puffs itself up as a defense mechanism.",
+                "rarity": 1
+            },
+            {
+                "id": 14,
+                "animal": "Guineafowl Puffer",
+                "depth": "20m",
+                "diet": "Coral and Sea Sponges",
+                "desc": "A fish that dwells in coral reefs and puffs itself up as a defense mechanism.",
+                "rarity": 2
+            },
+            {
+                "id": 15,
+                "animal": "Guineafowl Puffer",
+                "depth": "20m",
+                "diet": "Coral and Sea Sponges",
+                "desc": "A fish that dwells in coral reefs and puffs itself up as a defense mechanism.",
+                "rarity": 3
+            }
+        ]
+    }
+]
