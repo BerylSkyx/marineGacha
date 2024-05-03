@@ -1,7 +1,4 @@
 [
-    {
-        "marineAnimals":
-        [
             {
                 "id": 1,
                 "animal": "Sea Lion",
@@ -121,6 +118,6 @@
                 "desc": "A fish that dwells in coral reefs and puffs itself up as a defense mechanism.",
                 "rarity": 3
             }
-        ]
-    }
+        
+    
 ]
