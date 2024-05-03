@@ -1,123 +1,151 @@
 [
-            {
-                "id": 1,
-                "animal": "Sea Lion",
-                "depth": "200m",
-                "diet": "Fish and Squid",
-                "desc": "Sea Lions are distinguished from Seals by their longer snouts.",
-                "rarity": 1
-            },
-            {
-                "id": 2,
-                "animal": "Sea Lion",
-                "depth": "200m",
-                "diet": "Fish and Squid",
-                "desc": "Sea Lions are distinguished from Seals by their longer snouts.",
-                "rarity": 2
-            },
-            {
-                "id": 3,
-                "animal": "Sea Lion",
-                "depth": "200m",
-                "diet": "Fish and Squid",
-                "desc": "Sea Lions are distinguished from Seals by their longer snouts.",
-                "rarity": 3
-            },
-            {
-                "id": 4,
-                "animal": "Whale Shark",
-                "depth": "1800m",
-                "diet": "Plankton and Small Fish",
-                "desc": "Whale Sharks are currently the largest living fish species.",
-                "rarity": 1
-            },
-            {   "id": 5,
-                "animal": "Whale Shark",
-                "depth": "1800m",
-                "diet": "Plankton and Small Fish",
-                "desc": "Whale Sharks are currently the largest living fish species.",
-                "rarity": 2
-            },
-            {
-                "id": 6,
-                "animal": "Whale Shark",
-                "depth": "1800m",
-                "diet": "Plankton and Small Fish",
-                "desc": "Whale Sharks are currently the largest living fish species.",
-                "rarity": 3
-            },
-            {
-                "id": 7,
-                "animal": "Vampire",
-                "depth": "900m",
-                "diet": "Dead Animals",
-                "desc": "Recognized by their Dracula-esq cloak and their funny little ears.",
-                "rarity": 1
-            },
-            {
-                "id": 8,
-                "animal": "Vampire",
-                "depth": "900m",
-                "diet": "Dead Animals",
-                "desc": "Recognized by their Dracula-esq cloak and their funny little ears.",
-                "rarity": 2
-            },
-            {
-                "id": 9,
-                "animal": "Vampire",
-                "depth": "900m",
-                "diet": "Dead Animals",
-                "desc": "Recognized by their Dracula-esq cloak and their funny little ears.",
-                "rarity": 3
-            },
-            {
-                "id": 10,
-                "animal": "Blue Whale",
-                "depth": "500m",
-                "diet": "Krill",
-                "desc": "Blue Whales are the largest animal known to ever exist.",
-                "rarity": 1
-            },
-            {
-                "id": 11,
-                "animal": "Blue Whale",
-                "depth": "500m",
-                "diet": "Krill",
-                "desc": "Blue Whales are the largest animal known to ever exist.",
-                "rarity": 2
-            },
-            {
-                "id": 12,
-                "animal": "Blue Whale",
-                "depth": "500m",
-                "diet": "Krill",
-                "desc": "Blue Whales are the largest animal known to ever exist.",
-                "rarity": 3
-            },
-            {
-                "id": 13,
-                "animal": "Guineafowl Puffer",
-                "depth": "20m",
-                "diet": "Coral and Sea Sponges",
-                "desc": "A fish that dwells in coral reefs and puffs itself up as a defense mechanism.",
-                "rarity": 1
-            },
-            {
-                "id": 14,
-                "animal": "Guineafowl Puffer",
-                "depth": "20m",
-                "diet": "Coral and Sea Sponges",
-                "desc": "A fish that dwells in coral reefs and puffs itself up as a defense mechanism.",
-                "rarity": 2
-            },
-            {
-                "id": 15,
-                "animal": "Guineafowl Puffer",
-                "depth": "20m",
-                "diet": "Coral and Sea Sponges",
-                "desc": "A fish that dwells in coral reefs and puffs itself up as a defense mechanism.",
-                "rarity": 3
-            }
-        
-    
+    {
+        "id": 1,
+        "animal": "Sea Lion",
+        "depth": "200m",
+        "diet": "Fish and Squid",
+        "desc": "Sea Lions are distinguished from Seals by their longer snouts.",
+        "rarity": 1,
+        "website": "https://oceana.org/marine-life/california-sea-lion/",
+        "image": "https://raw.githubusercontent.com/BerylSkyx/marineGacha/main/sealion1.png"
+    },
+    {
+        "id": 2,
+        "animal": "Sea Lion",
+        "depth": "200m",
+        "diet": "Fish and Squid",
+        "desc": "Sea Lions are distinguished from Seals by their longer snouts.",
+        "rarity": 2,
+        "website": "https://oceana.org/marine-life/california-sea-lion/",
+        "image": "https://raw.githubusercontent.com/BerylSkyx/marineGacha/main/sealion2.png"
+    },
+    {
+        "id": 3,
+        "animal": "Sea Lion",
+        "depth": "200m",
+        "diet": "Fish and Squid",
+        "desc": "Sea Lions are distinguished from Seals by their longer snouts.",
+        "rarity": 3,
+        "website": "https://oceana.org/marine-life/california-sea-lion/",
+        "image": "https://raw.githubusercontent.com/BerylSkyx/marineGacha/main/sealion3.png"
+    },
+    {
+        "id": 4,
+        "animal": "Whale Shark",
+        "depth": "1800m",
+        "diet": "Plankton and Small Fish",
+        "desc": "Whale Sharks are currently the largest living fish species.",
+        "rarity": 1,
+        "website": "https://oceana.org/marine-life/whale-shark/",
+        "image": "https://raw.githubusercontent.com/BerylSkyx/marineGacha/main/whaleshark1.png"
+    },
+    {   "id": 5,
+        "animal": "Whale Shark",
+        "depth": "1800m",
+        "diet": "Plankton and Small Fish",
+        "desc": "Whale Sharks are currently the largest living fish species.",
+        "rarity": 2,
+        "website": "https://oceana.org/marine-life/whale-shark/",
+        "image": "https://raw.githubusercontent.com/BerylSkyx/marineGacha/main/whaleshark2.png"
+    },
+    {
+        "id": 6,
+        "animal": "Whale Shark",
+        "depth": "1800m",
+        "diet": "Plankton and Small Fish",
+        "desc": "Whale Sharks are currently the largest living fish species.",
+        "rarity": 3,
+        "website": "https://oceana.org/marine-life/whale-shark/",
+        "image": "https://raw.githubusercontent.com/BerylSkyx/marineGacha/main/whaleshark3.png"
+    },
+    {
+        "id": 7,
+        "animal": "Vampire Squid",
+        "depth": "900m",
+        "diet": "Dead Animals",
+        "desc": "Recognized by their Dracula-esq cloak and their funny little ears.",
+        "rarity": 1,
+        "website": "https://oceana.org/marine-life/vampire-squid/",
+        "image": "https://raw.githubusercontent.com/BerylSkyx/marineGacha/main/vampiresquid1.png"
+    },
+    {
+        "id": 8,
+        "animal": "Vampire Squid",
+        "depth": "900m",
+        "diet": "Dead Animals",
+        "desc": "Recognized by their Dracula-esq cloak and their funny little ears.",
+        "rarity": 2,
+        "website": "https://oceana.org/marine-life/vampire-squid/",
+        "image": "https://raw.githubusercontent.com/BerylSkyx/marineGacha/main/vampiresquid2.png"
+    },
+    {
+        "id": 9,
+        "animal": "Vampire Squid",
+        "depth": "900m",
+        "diet": "Dead Animals",
+        "desc": "Recognized by their Dracula-esq cloak and their funny little ears.",
+        "rarity": 3,
+        "website": "https://oceana.org/marine-life/vampire-squid/",
+        "image": "https://raw.githubusercontent.com/BerylSkyx/marineGacha/main/vampiresquid3.png"
+    },
+    {
+        "id": 10,
+        "animal": "Blue Whale",
+        "depth": "500m",
+        "diet": "Krill",
+        "desc": "Blue Whales are the largest animal known to ever exist.",
+        "rarity": 1,
+        "website": "https://oceana.org/marine-life/blue-whale/",
+        "image": "https://raw.githubusercontent.com/BerylSkyx/marineGacha/main/bluewhale1.png"
+    },
+    {
+        "id": 11,
+        "animal": "Blue Whale",
+        "depth": "500m",
+        "diet": "Krill",
+        "desc": "Blue Whales are the largest animal known to ever exist.",
+        "rarity": 2,
+        "website": "https://oceana.org/marine-life/blue-whale/",
+        "image": "https://raw.githubusercontent.com/BerylSkyx/marineGacha/main/bluewhale2.png"
+    },
+    {
+        "id": 12,
+        "animal": "Blue Whale",
+        "depth": "500m",
+        "diet": "Krill",
+        "desc": "Blue Whales are the largest animal known to ever exist.",
+        "rarity": 3,
+        "website": "https://oceana.org/marine-life/blue-whale/",
+        "image": "https://raw.githubusercontent.com/BerylSkyx/marineGacha/main/bluewhale3.png"
+    },
+    {
+        "id": 13,
+        "animal": "Guineafowl Puffer",
+        "depth": "20m",
+        "diet": "Coral and Sea Sponges",
+        "desc": "A fish that dwells in coral reefs and puffs itself up as a defense mechanism.",
+        "rarity": 1,
+        "website": "https://oceana.org/marine-life/guineafowl-puffer/",
+        "image": "https://raw.githubusercontent.com/BerylSkyx/marineGacha/main/puffer1.png"
+    },
+    {
+        "id": 14,
+        "animal": "Guineafowl Puffer",
+        "depth": "20m",
+        "diet": "Coral and Sea Sponges",
+        "desc": "A fish that dwells in coral reefs and puffs itself up as a defense mechanism.",
+        "rarity": 2,
+        "website": "https://oceana.org/marine-life/guineafowl-puffer/",
+        "image": "https://raw.githubusercontent.com/BerylSkyx/marineGacha/main/puffer2.png"
+    },
+    {
+        "id": 15,
+        "animal": "Guineafowl Puffer",
+        "depth": "20m",
+        "diet": "Coral and Sea Sponges",
+        "desc": "A fish that dwells in coral reefs and puffs itself up as a defense mechanism.",
+        "rarity": 3,
+        "website": "https://oceana.org/marine-life/guineafowl-puffer/",
+        "image": "https://raw.githubusercontent.com/BerylSkyx/marineGacha/main/puffer3.png"
+    }
 ]
